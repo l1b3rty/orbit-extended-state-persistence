@@ -4,7 +4,7 @@ import cloud.orbit.concurrent.Task;
 
 /**
  * Provides state persistence mechanism for actors through usage of @see {PersistentStateManager}
- * @param <ST> - actor's state type
+ * @param <ST> - actor state type
  * @param <SP> - persistent state manager type
  */
 public abstract class PersistedStateActor<ST, SP extends PersistentStateManager<ST>> extends AbstractActor<ST>

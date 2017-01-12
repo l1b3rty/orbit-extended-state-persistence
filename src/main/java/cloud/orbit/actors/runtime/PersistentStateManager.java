@@ -4,7 +4,7 @@ import cloud.orbit.concurrent.Task;
 
 /**
  * Persistent State Manager is building block for providing more flexible way of actor's state persistence.
- * @param <T> - actor's state type
+ * @param <T> - actor state type
  */
 public interface PersistentStateManager<T>
 {
