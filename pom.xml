@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<orbit.version>0.9.15-SNAPSHOT</orbit.version>
+		<orbit.version>0.9.14</orbit.version>
 		<junit.version>4.11</junit.version>
 	</properties>
 
